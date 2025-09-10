@@ -51,4 +51,6 @@ int main(void)
             printf("Invalid Input!");
             break;
     }
+
+    return 0;
 }

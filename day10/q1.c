@@ -48,4 +48,6 @@ int main(void)
     {
         printf("Invalid Triangle!\n");
     }
+
+    return 0;
 }
