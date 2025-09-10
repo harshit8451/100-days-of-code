@@ -25,4 +25,6 @@ int main(void)
     scanf("%d", &b);
 
     printf("%d %d\n", b, a);
+
+    return 0;
 }

@@ -26,4 +26,6 @@ int main(void)
     fahren = ( (celc * 9.0) / 5.0 ) + 32.0;
 
     printf("Temperature in Fahrenheit: %0.2f\n", fahren);
+
+    return 0;
 }

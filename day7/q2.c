@@ -30,4 +30,6 @@ int main(void)
     {
         printf("Consonant\n");
     }
+
+    return 0;
 }

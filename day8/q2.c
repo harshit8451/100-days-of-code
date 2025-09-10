@@ -38,4 +38,6 @@ int main(void)
     {
         printf("%i is the largest\n", c);
     }
+
+    return 0;
 }

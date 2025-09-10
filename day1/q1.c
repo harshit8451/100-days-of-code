@@ -21,10 +21,15 @@ int main(void)
     int num1;
     int num2;
     int sum;
+    
     printf("Enter First Number: ");
     scanf("%i", &num1);
+    
     printf("Enter Second Number: ");
     scanf("%i", &num2);
+    
     sum = num1 + num2;
     printf("The Sum is: %i\n", sum);
+
+    return 0;
 }

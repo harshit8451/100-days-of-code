@@ -52,4 +52,6 @@ int main(void)
     {
         printf("Roots are complex\n");
     }
+
+    return 0;
 }

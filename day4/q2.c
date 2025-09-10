@@ -28,4 +28,6 @@ int main(void)
         sum += i;
     }
     printf("Sum = %d", sum);
+
+    return 0;
 }

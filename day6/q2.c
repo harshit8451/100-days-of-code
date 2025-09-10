@@ -43,4 +43,6 @@ int main(void)
     {
         printf("Negative");
     }
+
+    return 0;
 }

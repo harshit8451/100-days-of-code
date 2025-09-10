@@ -59,4 +59,6 @@ int main(void)
     {
         printf("Grade F\n");
     }
+
+    return 0;
 }

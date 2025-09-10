@@ -29,4 +29,6 @@ int main(void)
 
     printf("Area of Circle: %.2f\n", area);
     printf("Circumference of Circle: %.2f\n", circum);
+
+    return 0;
 }

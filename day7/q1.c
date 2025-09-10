@@ -40,4 +40,6 @@ int main(void)
     {
         printf("Not a leap year\n");
     }
+
+    return 0;
 }

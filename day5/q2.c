@@ -27,4 +27,6 @@ int main(void)
     mins = (time % 3600) / 60;
     secs = time % 60;
     printf("%d : %d : %d\n", hrs, mins, secs);
+
+    return 0;
 }

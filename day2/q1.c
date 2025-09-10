@@ -30,4 +30,6 @@ int main(void)
     
     printf("Area: %i\n", area);
     printf("Perimeter: %i\n", peri);
+
+    return 0;
 }

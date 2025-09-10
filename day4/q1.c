@@ -25,4 +25,6 @@ int main(void)
     scanf("%d", &b);
 
     printf("After Swap: %d %d\n", b, a);
+
+    return 0;
 }
